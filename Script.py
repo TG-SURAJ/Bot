@@ -220,7 +220,9 @@ Exᴀᴍᴘʟᴇ : Loki S01E01
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """{file_caption}
+    CAPTION = """
+<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_caption}</code>
+<b>
 
 <b>🔮 Sɪᴢᴇ : </b> <code>{file_size}</code>
 
