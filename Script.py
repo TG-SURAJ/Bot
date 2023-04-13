@@ -222,7 +222,7 @@ Exᴀᴍᴘʟᴇ : Loki S01E01
 
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-•────•────────•─────•─────•
+<b>××─────── • ◆ • ───────××</b>
 <b>🔮 Sɪᴢᴇ : </b> <code>{file_size}</code>
 
 <b>📌 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/KingOf_univers>𝕾𝖚𝖗𝖆𝖏 👑</a></b>"""
